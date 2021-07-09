@@ -1,0 +1,9 @@
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\bin\Debug\47-AT YARIŞI.exe.config
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\bin\Debug\47-AT YARIŞI.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\bin\Debug\47-AT YARIŞI.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\obj\Debug\_47_AT_YARIŞI.Form1.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\obj\Debug\_47_AT_YARIŞI.Properties.Resources.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\obj\Debug\47-AT YARIŞI.csproj.GenerateResource.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\obj\Debug\47-AT YARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\obj\Debug\47-AT YARIŞI.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\47-AT YARIŞI\47-AT YARIŞI\obj\Debug\47-AT YARIŞI.pdb
